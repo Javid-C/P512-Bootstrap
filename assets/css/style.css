@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* 
+.solar-system {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.sun {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+    position: absolute;
+    animation-name: sun;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.mercury {
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    border-radius: 50%;
+    background: linear-gradient(to right, #afafaf, #ac8b3e);
+    animation-name: mercury;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.venus {
+    width: 105px;
+    height: 105px;
+    position: absolute;
+    border-radius: 50%;
+    background: linear-gradient(to right, #ccfffc, #4fcdff);
+    animation-name: venus;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.earth {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    border-radius: 50%;
+    background: linear-gradient(to right, #a0ffeb, #42ff91);
+    animation-name: earth;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes sun {
+    from {
+        transform: rotateZ(0deg);
+    }
+    to {
+        transform: rotateZ(360deg);
+    }
+}
+
+@keyframes mercury {
+    from {
+        transform: rotateZ(0deg) translateX(150px);
+    }
+    to {
+        transform: rotateZ(360deg) translateX(150px);
+    }
+}
+
+@keyframes venus {
+    from {
+        transform: rotateZ(0deg) translateX(350px);
+    }
+    to {
+        transform: rotateZ(360deg) translateX(350px);
+    }
+}
+
+@keyframes earth {
+    from {
+        transform: rotateZ(0deg) translateX(550px);
+    }
+    to {
+        transform: rotateZ(360deg) translateX(550px);
+    }
+} */
+
+
+/* #text {
+    color: blue;
+} */
+
+
+/* .text {
+    color: red;
+} */
+
+
+/* p {
+    color: aqua;
+} */
+
+
+/* .box .box1 .box2 {
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+@media screen and (max-width:992px) {
+    .box .box1 .box2 {
+        display: none;
+    }
+} */
+
+
+/* Bootstrap section */
+
+.red {
+    color: red;
+}
+
+body {
+    height: 400000vh;
+}
